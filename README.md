@@ -19,7 +19,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  root@yourname:~# cat /etc/passwd | grep yourname               │
 │                                                                 │
-│  yourname:x:1000:1000:Backend Engineer,,,:/home/yourname:/bin/zsh│
+│  yourname:x:1000:1000:Backend Dev,,,:/home/yourname:/bin/zsh│
 │                                                                 │
 │  root@yourname:~# uptime                                        │
 │  up several years,  load avg: 0.95, 0.87, 0.91  (always busy)  │
@@ -28,38 +28,6 @@
 
 ---
 
-## `/proc/self/status`
-
-```c
-Name:     yourname
-State:    R (running)
-Focus:    Backend systems, distributed infra, low-level tinkering
-Threads:  too many (working on it)
-VmRSS:   ████████████░░░░  75% coffee
-Stack:    C • Go • Rust • Python • Bash • whatever gets the job done
-Pid:      ??? (spawned sometime in the 90s)
-```
-
----
-
-## `dmesg | grep skills`
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-</div>
 
 ---
 
