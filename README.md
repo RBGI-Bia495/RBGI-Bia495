@@ -15,17 +15,6 @@
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  root@yourname:~# cat /etc/passwd | grep yourname               │
-│                                                                 │
-│  yourname:x:1000:1000:Backend Dev,,,:/home/yourname:/bin/zsh│
-│                                                                 │
-│  root@yourname:~# uptime                                        │
-│  up several years,  load avg: 0.95, 0.87, 0.91  (always busy)  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 
